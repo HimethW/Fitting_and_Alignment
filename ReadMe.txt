@@ -1,1 +1,1 @@
-sample readme
+Fitting and Alignment Assignment 
